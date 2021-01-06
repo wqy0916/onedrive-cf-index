@@ -11,7 +11,7 @@ const config = {
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
    */
-  base: '/wqy0916',
+  base: 'wqy0916',
 
   /**
    * Feature: add OneDriveCN (21Vianet) support
